@@ -16,6 +16,14 @@ h1 {
   color: white;
   margin-bottom: 20px;
 }
+h4 {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 5px;
+  width: fit-content;
+}
 hr {
   width: 10%;
   border: dotted #ccc 10px;

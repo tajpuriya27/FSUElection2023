@@ -54,7 +54,11 @@ function Card(props) {
         >
           <FacebookIcon />
         </a>
-        <a href={`https://www.twitter.com/${props.twitter}`}>
+        <a
+          href={`https://www.twitter.com/${props.twitter}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <TwitterIcon />
         </a>
       </div>
