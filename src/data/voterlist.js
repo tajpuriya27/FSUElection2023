@@ -6522,7 +6522,7 @@ const Voter = [
   {
     sn: 1305,
     rollno: "PUR077BCT007",
-    name: "Abh Hek Chaudhary",
+    name: "Abhishek Chaudhary",
   },
   {
     sn: 1306,
